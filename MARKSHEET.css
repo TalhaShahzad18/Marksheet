@@ -1,0 +1,44 @@
+
+.div{
+    background-color: white;
+    border-color: black;
+    height: fit-content;
+    width: fit-content;
+    display: inline-block;
+}
+.secDiv{
+    display: inline-block;
+}
+#main{
+    display: inline;
+    text-align: center;
+    margin-left: 295px;
+}
+#Sub{
+    display: inline;
+    text-align: center;
+    margin-left: 305px;
+}
+#subs{
+    display: inline;
+    text-align: center;
+    margin-left: 260px;
+}
+
+#name{
+    margin-left: 10px;
+    display: inline;
+}
+#fname{
+    display: inline;
+    margin-left: 800px;
+}
+#Enr{
+    margin-left: 10px;
+    display: inline;
+}
+#CGPA{
+    display: inline;
+    margin-left: 775px;
+}
+
